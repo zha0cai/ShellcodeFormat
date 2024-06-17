@@ -10,4 +10,4 @@ Options:
 
 Example:
 
-ShellcodeFormat.exe -file=path/to/payload.bin -lang=go
+        ShellcodeFormat.exe -file=path/to/payload.bin -lang=go
